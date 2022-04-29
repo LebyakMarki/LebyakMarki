@@ -1,7 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/69906824/165987902-f3a06efb-9f71-400b-b7e3-35c1bc43827a.png)
-
-
-
+![Banner](https://user-images.githubusercontent.com/69906824/165990114-3e53bfb9-f00f-4204-bb97-ae4fd48cd997.png)
 
 ### <p align="center">Hi there, I'm Marki 👋</p>
 ## <p align="center">I'm a Ruby on Rails developer and graduating UCU student</p>
