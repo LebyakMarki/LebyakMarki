@@ -1,4 +1,5 @@
-## Hello there 👋
+### <p align="center">Hi there, I'm Marki 👋</p>
+## <p align="center">I'm a Ruby on Rails developer and graduating UCU student</p>
 
 ### 📈GitHub Stats: 
 <p>
